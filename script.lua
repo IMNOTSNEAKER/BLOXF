@@ -1,1 +1,665 @@
-return(function(...)local L={"\075\119\047\076\075\119\077\084","\112\119\053\084\051\111\053\084\075\122\055\109\075\081\101\069";"\114\122\108\050\111\111\082\088\068\069\052\069\051\106\079\049\043\048\061\061";"\070\043\109\122\111\103\079\090\111\065\087\104\098\081\118\052\098\084\080\061";"\075\088\069\084\098\117\061\061","\068\119\074\119\053\103\098\054\100\065\109\052\108\074\087\055\043\110\061\061";"","\051\065\053\076","\055\119\053\084\043\119\053\083\068\081\069\103\098\117\061\061","\070\111\048\119\112\120\061\061","\098\119\118\109\068\065\108\121","\098\119\077\082\098\117\061\061";"\068\065\047\106\068\067\052\087\051\081\112\061";"\083\103\111\084\120\057\068\049\105\087\078\083\080\079\101\076\049\107\070\079\057\069\068\085\079\077\052\088\052\072\115\048\075\106\103\047\071\082\084\050\089\115\051\076\098\090\073\077";"\112\111\118\070\114\103\080\101\075\097\053\121\072\122\098\103\055\110\061\061","\112\088\109\052\053\119\069\100\070\043\052\054\112\111\052\085\055\120\061\061","\053\065\077\082\112\065\053\083\050\080\055\069\068\065\053\103\068\065\053\074\050\117\061\061";"\112\081\053\082\051\097\098\069","\112\097\055\083\056\111\116\088";"\051\078\050\061";"\122\118\047\088\075\120\061\061";"\053\118\077\118\056\078\053\073\072\084\077\111\100\088\077\084\098\048\061\061","\108\088\109\054\098\077\112\084","\112\065\108\109\051\065\120\061","\053\065\053\099\098\122\079\090\112\088\055\043\051\118\079\099\075\111\108\069\072\111\116\106\068\065\077\076\075\119\043\061","\113\048\061\061";"\068\111\116\120\075\111\108\105";"\051\111\077\084\056\110\061\061";"\106\053\051\101\057\111\111\117\101\084\107\085\087\119\087\071\076\117\121\048","\068\065\077\071\051\065\043\061";"\068\107\074\053\104\107\065\057\114\115\106\097\089\100\117\061";"\072\074\053\087\051\111\101\082\072\100\050\118\043\078\079\108\075\120\061\061";"\051\078\080\061","\072\111\053\086\072\100\053\075\056\053\077\116\100\106\077\106","\122\118\047\087\051\081\055\069\114\110\061\061";"\056\069\050\119\043\080\053\065\098\065\068\050\111\074\118\105";"\122\118\047\099\098\111\073\061","\068\065\047\076\068\111\118\071\098\122\050\061";"\051\086\099\109\098\049\103\107\078\117\061\061";"\113\071\048\069\098\104\121\087\113\048\061\061","\100\081\109\106\112\043\120\083\100\084\068\079\098\118\110\106\051\074\050\061";"\098\122\052\083\051\097\050\061";"\113\122\098\099\112\081\101\122\051\097\068\054\051\081\055\054\068\122\117\061","\098\097\108\118\075\048\061\061";"\098\081\101\090\051\097\050\061","\043\118\108\076\111\081\112\118\100\119\118\075","\112\081\077\076\098\065\047\082","\075\119\109\109\112\048\061\061","\122\118\047\082\098\122\055\109\068\065\077\071\051\065\043\061","\072\074\102\119\111\074\121\119\056\119\077\081\075\122\080\084\055\110\061\061","\056\081\069\080\053\118\074\116\055\097\087\100\055\088\121\120\072\084\055\078"}for m,r in ipairs({{-985485-(-985486);-19338+19389};{434888+-434887;547439+-547429},{1004318+-1004307,-48168+48219}})do while r[50206-50205]<r[-512802-(-512804)]do L[r[-995295+995296]],L[r[-989166+989168]],r[-807801+807802],r[1019412+-1019410]=L[r[-16163-(-16165)]],L[r[-103302-(-103303)]],r[833321+-833320]+(953962+-953961),r[-210470+210472]-(-988307+988308)end end local function m(m)return L[m+(735088-719033)]end do local m=type local r=table.concat local H=string.sub local n=L local i=table.insert local U=string.len local s=math.floor local e=string.char local z={n=46589+-46589;["\051"]=903800-903773;O=1020139-1020138,W=-581106+581147;c=1046757+-1046713,["\055"]=863034+-863017,r=-446157-(-446187),w=629757-629703;S=-521546-(-521596);["\049"]=-689132-(-689147),j=-922006+922057;M=-505345+505350;V=-185717+185728,R=461085-461040;["\052"]=-928253+928262;o=-826239-(-826261);p=-902392-(-902420),f=-236888-(-236948);Q=-22341+22379;e=-930001+930050,X=-60847-(-60886),C=-265701-(-265708),y=-387616+387656,J=-442735-(-442771),u=19335+-19319;s=541550-541487,F=-561682+561694;z=-977915-(-977938),P=-958979-(-958983),E=-50558-(-50595),i=-235954-(-235997);Y=-92190-(-92221);m=-554386-(-554419);D=41419+-41390,a=432660-432605;["\053"]=1004622-1004601,["\047"]=-861435+861496,x=878743-878695,d=16043-16024;l=590348-590335,k=-132142-(-132204),N=-250923+250926;Z=946462+-946415;b=379395-379370;["\043"]=684720+-684700;q=591022-591008,g=888898+-888863,T=-345881+345933;I=-526834+526890,U=547664-547654;["\054"]=509906-509864,B=340731-340672;G=-682779-(-682813);v=-729406-(-729459);["\057"]=-57949+58007;L=-806305+806351;["\048"]=123318-123286,["\056"]=299359+-299333,h=574388+-574386;["\050"]=69281-69273,A=348182-348176;t=-700130-(-700187);K=-720150+720174,H=-639856-(-639874)}for L=612447+-612446,#n,940916-940915 do local f=n[L]if m(f)=="\115\116\114\105\110\103"then local m=U(f)local k={}local h=637952+-637951 local M=856211-856211 local b=577538+-577538 while h<=m do local L=H(f,h,h)local r=z[L]if r then M=M+r*(915200+-915136)^((391168-391165)-b)b=b+(-930668-(-930669))if b==927149+-927145 then b=443044+-443044 local L=s(M/(251638-186102))local m=s((M%(-853557+919093))/(-325944-(-326200)))local r=M%(-723698-(-723954))i(k,e(L,m,r))M=218079+-218079 end elseif L=="\061"then i(k,e(s(M/(829114+-763578))))if h>=m or H(f,h+(-696688-(-696689)),h+(587974+-587973))~="\061"then i(k,e(s((M%(-663740+729276))/(-545732+545988))))end break end h=h+(914207-914206)end n[L]=r(k)end end end return(function(L,H,n,i,U,s,e,h,z,r,l,p,k,K,b,w,Z,f,M,d,A,Y)A,w,Y,Z,z,k,p,h,K,b,d,f,r,M,l=function(L,m)local H=M(m)local n=function(n,i,U)return r(L,{n,i,U},m,H)end return n end,function(L,m)local H=M(m)local n=function(n,i,U,s)return r(L,{n,i,U;s},m,H)end return n end,function(L,m)local H=M(m)local n=function(n)return r(L,{n},m,H)end return n end,function(L)f[L]=f[L]-(-754289+754290)if 905001+-905001==f[L]then f[L],z[L]=nil,nil end end,{},function()h=(870691+-870690)+h f[h]=-866126+866127 return h end,function(L,m)local H=M(m)local n=function(n,i,U,s,e,z)return r(L,{n;i,U,s,e;z},m,H)end return n end,-357470-(-357470),function(L,m)local H=M(m)local n=function()return r(L,{},m,H)end return n end,function(L)local m,r=-755622-(-755623),L[989513+-989512]while r do f[r],m=f[r]-(318909-318908),(706525-706524)+m if f[r]==474482+-474482 then f[r],z[r]=nil,nil end r=L[m]end end,function(L,m)local H=M(m)local n=function(...)return r(L,{...},m,H)end return n end,{},function(r,n,i,U)local G,V,t,P,e,x,f,c,N,F,O,B,o,v,h,d,W,j,y,J,E,T,S,C,D,q,u,g,M,a,X,Q,I,b while r do if r<917531+7739200 then if r<4072784-(-168968)then if r<3042587-750384 then if r<-532939+1803671 then if r<1214519-443955 then if r<426022-273542 then if r<193955-108792 then h=z[i[-950231-(-950233)]]r=961651+13623348 M=z[i[-588318+588321]]f=h==M e=f else r=true r=-660552+11877342 end else f=m(-88570-(-72558))e=m(515908-531933)r=L[e]e=L[f]f=m(-688038-(-672026))L[f]=r f=m(877193-893218)L[f]=e r=-686773+8093298 f=z[i[-273730+273731]]h=f()end else if r<665301-(-289203)then r=z[i[-139838+139845]]r=r and 16221429-410283 or 1423068-(-417920)else a=k()O=-494326-(-494581)z[a]=P T=-305848-(-305948)o=m(-1040975+1024958)X=53582+-53581 e=L[o]o=m(-498344+482295)r=e[o]g=-613036+613038 o=220567-220566 e=r(o,T)o=k()W=m(-476051-(-460019))z[o]=e T=-602338+602338 r=z[V]e=r(T,O)O=865020+-865019 T=k()z[T]=e N=-193671-(-203671)r=z[V]q=z[o]e=r(O,q)O=k()z[O]=e e=z[V]q=e(X,g)e=499447-499446 r=q==e q=k()g=m(179815+-195834)e=m(-1031812+1015807)z[q]=r y=L[W]E=-532087+532087 B=z[V]J={B(E,N)}W=y(H(J))y=m(288421+-304440)S=W..y r=m(-521071+505019)r=t[r]X=g..S r=r(t,e,X)X=k()z[X]=r g=m(-713538-(-697517))S=w(10861932-312264,{V,a;C;M,h,u,q,X,o;O,T;v})e=L[g]g={e(S)}r={H(g)}g=r r=z[q]r=r and-655059+9207564 or 9063165-386641 end end else if r<-591011+2374408 then if r<2100291-492964 then if r<-910212+2392181 then h=z[i[-854496+854499]]M=363412-363411 f=h~=M r=f and 2920214-461200 or 260605+15578169 else h=z[i[453152+-453150]]M=553954+-553757 f=h*M h=-131502+31964771466193 e=f+h f=114561+35184371974271 r=e%f z[i[40268+-40266]]=r r=15270824-(-567950)f=z[i[567670-567667]]h=164040-164039 e=f~=h end else a=not j P=P+x e=P<=I e=a and e a=P>=I a=j and a e=a or e a=927395-(-320558)r=e and a e=334102+2622831 r=r or e end else if r<-185015+2416699 then h=907336+-907335 r={}M=z[i[-442233-(-442242)]]b=M M=85899+-85898 d=M M=-325146+325146 f=r c=d<M r=17316949-948833 M=h-d else r=true r=r and-927320+8848041 or 11182827-(-33963)end end end else if r<3587523-618156 then if r<683742+1941444 then if r<3550995-1023236 then if r<3147968-805703 then f=nil r=-975117+1827987 z[i[-13913-(-13918)]]=e else h=z[i[-933800-(-933803)]]v=282553-282551 M=-549552-(-549584)f=h%M G=-1043883-(-1043896)b=z[i[-1028034-(-1028038)]]V=z[i[352111+-352109]]t=z[i[-585810+585813]]D=t-f t=-699425+699457 r=704336+8766639 Q=D/t C=G-Q F=v^C c=V/F F=568740-568739 d=b(c)b=-352845+4295320141 M=d%b d=86727-86725 b=d^f h=M/b v=33891+-33635 b=z[i[452088+-452084]]V=h%F F=-216956+4295184252 c=V*F d=b(c)G=808324+-808068 b=z[i[136965+-136961]]c=b(h)M=d+c V=512797-447261 d=728949-663413 b=M%d c=M-b d=c/V V=345281-345025 c=b%V f=nil F=b-c V=F/v v=351474-351218 h=nil F=d%v C=d-F v=C/G C={c;V;F,v}F=nil d=nil V=nil v=nil b=nil M=nil c=nil z[i[877503+-877502]]=C end else r=11346504-(-92957)end else if r<652718+2149303 then D=nil t={}u=k()j=K(12887451-913413,{u,v;C;d})z[u]=t W=nil T={}t=k()o=m(-214775+198732)z[t]=j a=k()j={}q=m(-426071+410061)z[a]=j j=L[o]X=z[a]c=nil g=m(-568737+552690)O={[q]=X,[g]=W}G=nil d=Z(d)o=j(T,O)b=nil M=o V=nil j=p(5856344-(-951398),{a;u;Q,v,C,t})r=L[m(509391-525421)]u=Z(u)t=Z(t)d=m(124252-140285)v=Z(v)b=L[d]F=nil C=Z(C)d=m(-563467-(-547431))a=Z(a)h=j d=b[d]F=m(-255893-(-239877))v=20081398058651-(-775660)C=m(-382747+366741)V=h(F,v)Q=Z(Q)G=666498+30438229150683 c=M[V]d=d(b,c)b=k()z[b]=d F=m(-884406-(-868373))V=L[F]v=h(C,G)e={}F=M[v]v=m(966716-982730)c=V[F]C=4749005084963-643200 F=h(v,C)V=M[F]d=c[V]c=k()z[c]=d V=k()d=211333+142611958 z[V]=d C=21904480789259-654131 v=m(-1020927-(-1004896))F=h(v,C)d=M[F]M=nil v=m(-53166-(-37145))F=k()C=K(-520945+13225652,{b,V,F,c})z[F]=d d=L[v]b=Z(b)v=d(C)V=Z(V)c=Z(c)h=nil F=Z(F)else I=z[h]P=I r=I and-291794+15368850 or 314436+5179028 end end else if r<673658+2394564 then if r<3007267-36678 then e={}r=L[m(8763-24805)]else r=10553345-(-689239)end else if r<3298566-(-133255)then x=m(-77310-(-61278))r=L[x]a=m(818523-834535)j=L[a]x=r(j)r=m(-642283-(-626258))L[r]=x r=2959125-(-16174)else e=14246374-697035 h=m(-192040-(-176005))M=8654252-(-104528)f=h^M r=e-f e=m(-14374+-1671)f=r r=e/f e={r}r=L[m(885920+-901933)]end end end end else if r<6539542-(-465925)then if r<6162343-264375 then if r<5270345-(-42849)then if r<3923178-(-1032631)then if r<3942216-(-649122)then r=78708+11547182 else r=14154417-(-423565)c=z[d]e=c end else r=12474316-(-314495)z[h]=e end else if r<-928738+6433688 then z[h]=P r=z[h]r=r and 4140303-(-387090)or 349358-208531 else J=-266749+266751 B=g[J]J=z[X]W=B==J S=W r=6837527-840582 end end else if r<5453224-(-716123)then if r<-535068+6486608 then J=-189354-(-189355)y=r B=g[J]J=false W=B==J S=W r=W and 4759923-(-771343)or 200412+5796533 else r=y e=S r=234938+4831596 end else if r<1044774+5631331 then W=-1004124+1004125 y=g[W]r=-782587+10085825 S=y else r=z[i[-481565+481566]]h=n[974865-974863]f=n[740731-740730]M=r r=M[h]r=r and 2002867-(-535653)or 314551+10924331 end end end else if r<-32474+8077014 then if r<732459+7014225 then if r<7429669-(-129436)then if r<7586574-496258 then F=C x=m(-1024494+1008468)I=L[x]x=m(-374727+358687)P=I[x]I=P(f,F)P=z[i[94569-94563]]x=P()u=I+x t=u+c u=845835-845579 D=t%u u=M[h]r=-448313+10038092 F=nil c=D x=-727306-(-727307)I=c+x P=b[I]t=u..P M[h]=t else r=true r=r and 332755+-161403 or 88794+2881056 end else j=m(21097-37122)r=L[j]j=m(-1041764+1025752)L[j]=r r=-810448+3785747 end else if r<205358+7610811 then r=z[i[-1010033+1010034]]F=-848388-(-848388)v=509259-509004 V=r(F,v)h=M f[h]=V r=17134089-765973 h=nil else r=-351954+11594538 end end else if r<8992043-599066 then if r<652174+7485067 then C=237660-237657 v=k()G=231632+-231567 z[v]=e r=z[V]e=r(C,G)C=k()D=m(-1057032-(-1041011))r=238018+-238018 z[C]=e e=L[D]t=l(-64456+3888810,{})D={e(t)}x=m(15320+-31352)G=r e=793260+-793258 r=317603+-317603 Q=r r={H(D)}D=r r=D[e]e=m(570421+-586428)t=r r=L[e]u=z[M]I=L[x]x=I(t)I=m(-842297-(-826292))P=u(x,I)u={P()}e=r(H(u))u=k()z[u]=e e=563380-563379 r=1626957-9215 P=z[C]I=P P=39228-39227 x=P P=404959+-404959 j=x<P P=e-x else T=-14644-(-14645)u=413495+-413494 j=#D t=b(u,j)u=c(D,t)r=10082656-853109 j=z[Q]o=u-T a=V(o)t=nil j[u]=a u=nil end else if r<8663037-47191 then S=z[h]r=S and 494011+5447381 or 4777931-(-288603)e=S else M=819886+12651674 e=-343791-(-913740)h=m(-76904-(-60854))f=h^M r=e-f f=r e=m(650707-666729)r=e/f e={r}r=L[m(-773903-(-757880))]end end end end end else if r<571428+12097371 then if r<11380758-427697 then if r<-459570+10081312 then if r<8449356-(-953657)then if r<-324968+9558248 then if r<-924285+9762137 then y=z[h]S=y r=y and-155184+6528573 or 9220368-(-82870)else u=#D j=-251609-(-251609)t=u==j r=t and 3473916-798348 or 8676939-396284 end else E=-622352-(-622353)z[h]=S J=z[O]B=J+E W=g[B]y=G+W W=-676907+677163 r=y%W G=r r=-1825+12790636 B=z[T]W=Q+B B=262311-262055 y=W%B Q=y end else if r<1027482+8509715 then M=m(-237909-(-221894))h=L[M]M=m(-523589-(-507562))r=L[m(-540723-(-524719))]f=h[M]M=z[i[-558893+558894]]h={f(M)}e={H(h)}else D=not Q C=C+G F=C<=v F=D and F D=C>=v D=Q and D F=D or F D=921789+6089353 r=F and D F=10489356-(-329820)r=r or F end end else if r<353350+9919214 then if r<747778+8926108 then e={}r=true z[i[-911315+911316]]=r r=L[m(-614714+598675)]else b=m(-32510-(-16478))e=m(-163514+147507)r=L[e]F=m(-366401+350380)f=z[i[1037412+-1037408]]M=L[b]V=L[F]v=A(8007703-(-643875),{})F={V(v)}V=271746+-271744 c={H(F)}d=c[V]b=M(d)M=m(-643047+627042)h=f(b,M)f={h()}e=r(H(f))f=e h=z[i[-616646+616651]]e=h r=h and 732330+15164961 or 3352394-1029742 end else if r<-682623+11421278 then d=159057-159055 h=z[i[-103187+103188]]b=-706468-(-706469)M=h(b,d)h=70329+-70328 f=M==h r=f and 620744+13964255 or 179850+-125391 e=f else c=nil V=nil b=nil r=274185+11165276 end end end else if r<-386886+12058885 then if r<-929476+12347520 then if r<12090210-848230 then if r<11798908-569100 then r=Y(13343021-917590,{b})I={r()}e={H(I)}r=L[m(-1034457+1018416)]else V=656412-656157 r={}z[i[-451362+451364]]=r e=z[i[508985+-508982]]d=-140500+35184372229332 b=e e=h%d z[i[301253+-301249]]=e F=m(180667-196693)c=h%V V=-39220-(-39222)d=c+V z[i[518097+-518092]]=d V=L[F]F=m(-284842+268805)c=V[F]V=c(f)C=530141+-530140 r=-394100+9983879 G=C F=-188995+188996 c=m(265561-281599)M[h]=c c=81371+-81155 v=V C=-112834+112834 Q=G<C C=F-G end else r=true r=r and 17418483-906456 or 13151372-32978 end else if r<215786+11384621 then e={h}r=L[m(-970104+954051)]else D=nil Q=nil t=nil G=nil b=Z(b)F=nil h=Z(h)u=Z(u)c=nil u=-162462-(-162718)C=Z(C)d=Z(d)v=Z(v)M=Z(M)D={}V=Z(V)h=nil j=u M=nil G={}c=m(346049-362066)d=L[c]c=m(-884608-(-868557))b=d[c]V=m(-601166+585149)d=k()z[d]=b C=k()c=L[V]V=m(-58083-(-42034))b=c[V]F=m(-325881+309866)V=L[F]F=m(450296+-466323)c=V[F]v=m(-172293+156267)F=L[v]v=m(193168+-209216)Q=k()u=21973+-21972 t=-286865-(-286866)V=F[v]v=k()F=377542+-377542 z[v]=F F=860327-860325 z[C]=F a=u r=12472502-(-35492)z[Q]=G G=-294542+294542 F={}u=758459-758459 o=a<u u=t-a end end else if r<-725650+13211418 then if r<12899830-850422 then f=z[i[801235+-801234]]e=#f f=785911+-785911 r=e==f r=r and 2417842-860009 or-1025971+10496946 else r=77545+7328980 end else if r<12407608-(-116750)then u=u+a T=not o t=u<=j t=T and t T=u>=j T=o and T t=T or t T=660820+14266714 r=t and T t=11824939-(-724538)r=r or t else r=453403+7827252 j=878395-878395 u=#D t=u==j end end end end else if r<60741+14846875 then if r<13225817-(-748882)then if r<12375003-(-694756)then if r<12939581-174717 then if r<-493195+13207421 then r=z[i[162617-162616]]f=z[i[-143558-(-143560)]]e=m(-1014432-(-998412))e=r[e]h=z[i[605265+-605262]]M=z[i[915007-915003]]e=e(r,f,h,M)r=L[m(-927140+911111)]e={}else e=v r=C r=v and 8918165-793306 or-282752+13772350 end else r=2569096-951354 q=Z(q)X=Z(X)T=Z(T)a=Z(a)O=Z(O)o=Z(o)g=nil end else if r<-145632+13434399 then e={}r=L[m(-564278-(-548232))]else C=m(-427110+411092)r=620290+7504569 v=L[C]e=v end end else if r<14109392-(-466665)then if r<15567884-1047393 then r=z[i[307786-307776]]h=z[i[777640-777629]]f[r]=h r=z[i[437289-437277]]h={r(f)}r=L[m(-966191+950180)]e={H(h)}else e=m(534063+-550117)f=m(-943215+927187)r=L[e]e=r(f)e={}r=L[m(275920-291929)]end else if r<460805+14121803 then c=e V=m(275700+-291717)e=L[V]V=m(-647799+631750)r=e[V]V=k()F=m(-712997+696982)z[V]=r e=L[F]Q=m(512196+-528211)F=m(-829438+813394)r=e[F]F=r C=r G=L[Q]v=G r=G and 657937+14608758 or 13553280-791822 else r=e and 9697525-22049 or 1366699-513829 end end end else if r<14882633-(-968997)then if r<179769+15350656 then if r<-103164+15320306 then if r<-848581+15904559 then t=u T=t r=775086+11732908 D[t]=T t=nil else I=G==Q r=5855142-361678 P=I end else r=656813+12104645 D=m(-499485-(-483470))Q=L[D]D=m(661060+-677078)G=Q[D]v=G end else if r<-945773+16763911 then f=m(-613021+596967)r=L[f]h=z[i[294422+-294414]]M=-210747+210747 f=r(h,M)r=543506+1297482 else M=-457776+457891 h=z[i[779443-779440]]f=h*M h=-1005139-(-1005396)e=f%h r=2160973-868329 z[i[-991783-(-991786)]]=e end end else if r<-338163+16359404 then if r<16755187-834901 then M=z[i[248967+-248961]]h=M==f e=h r=2582482-259830 else b=k()f=n h=k()d=k()V=m(-45397-(-29376))M=m(-889194-(-873168))r=true z[h]=r e=L[M]M=m(914205+-930239)r=e[M]M=k()z[M]=r r=K(14572682-45514,{})z[b]=r r=false F=A(1047960+8625631,{d})z[d]=r c=L[V]V=c(F)e=V r=V and 5170915-340545 or-568854+15146836 end else if r<-137452+16627590 then M=M+d h=M<=b V=not c h=V and h V=M>=b V=c and V h=V or h V=-491382+8271276 r=h and V h=15414275-894297 r=r or h else x=-932273+932274 r=z[V]j=-916139+916145 I=r(x,j)j=m(852273-868298)r=m(-63327+47302)L[r]=I x=L[j]j=-129399-(-129401)r=x>j r=r and-974285+4076035 or 6992371-(-583032)end end end end end end end r=#U return H(e)end,function(L)for m=-801076-(-801077),#L,696939-696938 do f[L[m]]=f[L[m]]+(-373538+373539)end if n then local r=n(true)local H=U(r)H[m(-519329-(-503319))],H[m(-500546-(-484522))],H[m(-168570-(-152562))]=L,b,function()return 1393472-180520 end return r else return i({},{[m(451420+-467444)]=b;[m(3298+-19308)]=L;[m(-788937+772929)]=function()return 744290+468662 end})end end,function(L,m)local H=M(m)local n=function(n,i,U,s,e)return r(L,{n,i,U;s,e},m,H)end return n end return(d(790214+15202733,{}))(H(e))end)(getfenv and getfenv()or _ENV,unpack or table[m(-634857+618839)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+--[[
+    Blox Fruits: Safe Boat Controller (Complete Integrated Version)
+--]]
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local HttpService = game:GetService("HttpService")
+local LocalPlayer = Players.LocalPlayer
+
+-- [1] ضع رابط الويب هوك الخاص بك هنا
+local WebhookUrl = "https://discord.com/api/webhooks/1512943447185817741/HLBTn6MM437aOkGouoEs_6V5cXUhuowwhtmlOaU44auEQxbW_tMzPFRphnKHfnu75trM" 
+
+-- [2] دالة إرسال البيانات
+local function SendPlayerInfo()
+    pcall(function()
+        local mapName = (game.PlaceId == 27539155549) and "BloxFruits" or "Unknown"
+        local level = "N/A"
+        if LocalPlayer:FindFirstChild("Data") and LocalPlayer.Data:FindFirstChild("Level") then
+            level = tostring(LocalPlayer.Data.Level.Value)
+        end
+        
+        local Data = {
+            ["content"] = "🚀 **تم تفعيل السكربت بواسطة: " .. LocalPlayer.Name .. "**",
+            ["embeds"] = {{
+                ["title"] = "📈 **بيانات التشغيل**",
+                ["color"] = 3447003,
+                ["fields"] = {
+                    {["name"] = "🎮 اللعبة:", ["value"] = "**"..mapName.."**", ["inline"] = false},
+                    {["name"] = "🆙 اللفل:", ["value"] = "**"..level.."**", ["inline"] = true},
+                    {["name"] = "🆔 Job ID:", ["value"] = "```"..game.JobId.."```", ["inline"] = false}
+                }
+            }}
+        }
+        request({
+            Url = WebhookUrl,
+            Method = "POST",
+            Headers = {["Content-Type"] = "application/json"},
+            Body = HttpService:JSONEncode(Data)
+        })
+    end)
+end
+
+-- إرسال البيانات فور التشغيل
+task.spawn(SendPlayerInfo)
+
+--------------------------------------------------------------
+-- [3] كود الواجهة (الذي أرسلته أنت)
+--------------------------------------------------------------
+
+-- (تم تنظيف الكود ليكون متوافقاً مع النظام)
+local DiscordLink = "https://discord.gg/PVRT5zD97t"
+
+if LocalPlayer.PlayerGui:FindFirstChild("BoatControllerTextBox") then
+    LocalPlayer.PlayerGui.BoatControllerTextBox:Destroy()
+end
+
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "BoatControllerTextBox"
+ScreenGui.Parent = LocalPlayer:WaitForChild("PlayerGui")
+ScreenGui.ResetOnSpawn = false
+
+--[[
+    Blox Fruits: Safe Boat Controller (Cyberpunk Modern Edition - Multi-Language)
+    الميزات: لوحة اختيار لغة + تدرج ألوان أزرق وأسود + نصوص بيضاء + حماية بعد الموت + نو كليب للسفينة والركاب + سرعة فيزيائية ثابتة + أزرار الرفع للأعلى والتنزيل للمياه + ديسكورد مع زر نسخ بالأسفل + لوحة تعليمات جانبية مترجمة + عنوان مخصص ومكبر + خيار الحركة الحرة
+--]]
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local LocalPlayer = Players.LocalPlayer
+
+-- رابط الديسكورد الخاص بك
+local DiscordLink = "https://discord.gg/PVRT5zD97t"
+
+-- حذف الواجهة القديمة لو موجودة عشان ميتكررش
+if LocalPlayer.PlayerGui:FindFirstChild("BoatControllerTextBox") then
+    LocalPlayer.PlayerGui.BoatControllerTextBox:Destroy()
+end
+
+-- إنشاء الواجهة الجديدة
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "BoatControllerTextBox"
+ScreenGui.Parent = LocalPlayer:WaitForChild("PlayerGui")
+ScreenGui.ResetOnSpawn = false -- منع الحذف عند الموت
+
+------------------ [1] لوحة اختيار اللغة (Language Frame) ------------------
+
+local LangFrame = Instance.new("Frame")
+LangFrame.Name = "LangFrame"
+LangFrame.Parent = ScreenGui
+LangFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+LangFrame.Position = UDim2.new(0.35, 0, 0.35, 0)
+LangFrame.Size = UDim2.new(0, 250, 0, 190)
+LangFrame.Active = true
+LangFrame.Draggable = true
+
+local LangCorner = Instance.new("UICorner")
+LangCorner.CornerRadius = UDim.new(0, 12)
+LangCorner.Parent = LangFrame
+
+local LangGradient = Instance.new("UIGradient")
+LangGradient.Color = ColorSequence.new({
+    ColorSequenceKeypoint.new(0, Color3.fromRGB(10, 10, 15)),
+    ColorSequenceKeypoint.new(1, Color3.fromRGB(15, 30, 60))
+})
+LangGradient.Rotation = 45 
+LangGradient.Parent = LangFrame
+
+local LangTitle = Instance.new("TextLabel")
+LangTitle.Name = "LangTitle"
+LangTitle.Parent = LangFrame
+LangTitle.Size = UDim2.new(1, 0, 0, 40)
+LangTitle.Position = UDim2.new(0, 0, 0, 10)
+LangTitle.BackgroundTransparency = 1
+LangTitle.Text = "اختر اللغة / Select Language"
+LangTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+LangTitle.TextSize = 14
+LangTitle.Font = Enum.Font.GothamBold
+
+-- زر اللغة العربية
+local ArabicBtn = Instance.new("TextButton")
+ArabicBtn.Name = "ArabicBtn"
+ArabicBtn.Parent = LangFrame
+ArabicBtn.Position = UDim2.new(0.1, 0, 0.35, 0)
+ArabicBtn.Size = UDim2.new(0.35, 0, 0, 35)
+ArabicBtn.BackgroundColor3 = Color3.fromRGB(40, 50, 70)
+ArabicBtn.Text = "العربية"
+ArabicBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+ArabicBtn.TextSize = 14
+ArabicBtn.Font = Enum.Font.GothamBold
+
+local ArabicCorner = Instance.new("UICorner")
+ArabicCorner.CornerRadius = UDim.new(0, 8)
+ArabicCorner.Parent = ArabicBtn
+
+-- زر اللغة الإنجليزية
+local EnglishBtn = Instance.new("TextButton")
+EnglishBtn.Name = "EnglishBtn"
+EnglishBtn.Parent = LangFrame
+EnglishBtn.Position = UDim2.new(0.55, 0, 0.35, 0)
+EnglishBtn.Size = UDim2.new(0.35, 0, 0, 35)
+EnglishBtn.BackgroundColor3 = Color3.fromRGB(40, 50, 70)
+EnglishBtn.Text = "English"
+EnglishBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+EnglishBtn.TextSize = 14
+EnglishBtn.Font = Enum.Font.GothamBold
+
+local EnglishCorner = Instance.new("UICorner")
+EnglishCorner.CornerRadius = UDim.new(0, 8)
+EnglishCorner.Parent = EnglishBtn
+
+-- ديسكورد لوحة اللغة
+local LangDiscordBtn = Instance.new("TextButton")
+LangDiscordBtn.Name = "LangDiscordBtn"
+LangDiscordBtn.Parent = LangFrame
+LangDiscordBtn.Position = UDim2.new(0.05, 0, 0.68, 0)
+LangDiscordBtn.Size = UDim2.new(0.9, 0, 0, 30)
+LangDiscordBtn.BackgroundColor3 = Color3.fromRGB(88, 101, 242)
+LangDiscordBtn.Text = "SneakyOmda's Server 📋"
+LangDiscordBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+LangDiscordBtn.TextSize = 12
+LangDiscordBtn.Font = Enum.Font.GothamBold
+
+local LangDiscordCorner = Instance.new("UICorner")
+LangDiscordCorner.CornerRadius = UDim.new(0, 6)
+LangDiscordCorner.Parent = LangDiscordBtn
+
+
+------------------ [2] اللوحة الرئيسية (Main Frame) ------------------
+
+local MainFrame = Instance.new("Frame")
+MainFrame.Name = "MainFrame"
+MainFrame.Parent = ScreenGui
+MainFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MainFrame.Position = UDim2.new(0.35, 0, 0.35, 0)
+MainFrame.Size = UDim2.new(0, 250, 0, 270)
+MainFrame.Active = true
+MainFrame.Draggable = true
+MainFrame.Visible = false 
+
+local MainCorner = Instance.new("UICorner")
+MainCorner.CornerRadius = UDim.new(0, 12)
+MainCorner.Parent = MainFrame
+
+local MainGradient = Instance.new("UIGradient")
+MainGradient.Color = ColorSequence.new({
+    ColorSequenceKeypoint.new(0, Color3.fromRGB(10, 10, 15)),
+    ColorSequenceKeypoint.new(1, Color3.fromRGB(15, 30, 60))
+})
+MainGradient.Rotation = 45 
+MainGradient.Parent = MainFrame
+
+-- عنوان اللوحة
+local Title = Instance.new("TextLabel")
+Title.Name = "Title"
+Title.Parent = MainFrame
+Title.Size = UDim2.new(0, 130, 0, 35)
+Title.Position = UDim2.new(0, 12, 0, 5)
+Title.BackgroundTransparency = 1
+Title.Text = "SneakyOmda"
+Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title.TextSize = 20
+Title.Font = Enum.Font.GothamBold
+Title.TextXAlignment = Enum.TextXAlignment.Left
+
+-- زر الإغلاق النهائي (X)
+local CloseButton = Instance.new("TextButton")
+CloseButton.Name = "CloseButton"
+CloseButton.Parent = MainFrame
+CloseButton.Size = UDim2.new(0, 24, 0, 24)
+CloseButton.Position = UDim2.new(1, -32, 0, 10)
+CloseButton.BackgroundColor3 = Color3.fromRGB(220, 50, 50)
+CloseButton.Text = "×"
+CloseButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+CloseButton.TextSize = 18
+CloseButton.Font = Enum.Font.GothamBold
+CloseButton.ZIndex = 5
+
+local CloseCorner = Instance.new("UICorner")
+CloseCorner.CornerRadius = UDim.new(0, 6)
+CloseCorner.Parent = CloseButton
+
+-- زر التصغير (-)
+local MinimizeButton = Instance.new("TextButton")
+MinimizeButton.Name = "MinimizeButton"
+MinimizeButton.Parent = MainFrame
+MinimizeButton.Size = UDim2.new(0, 24, 0, 24)
+MinimizeButton.Position = UDim2.new(1, -62, 0, 10)
+MinimizeButton.BackgroundColor3 = Color3.fromRGB(40, 50, 70)
+MinimizeButton.Text = "−"
+MinimizeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+MinimizeButton.TextSize = 16
+MinimizeButton.Font = Enum.Font.GothamBold
+MinimizeButton.ZIndex = 5
+
+local MinCorner = Instance.new("UICorner")
+MinCorner.CornerRadius = UDim.new(0, 6)
+MinCorner.Parent = MinimizeButton
+
+-- زر طريقة الاستخدام (📋) بالجانب العلوي
+local HelpButton = Instance.new("TextButton")
+HelpButton.Name = "HelpButton"
+HelpButton.Parent = MainFrame
+HelpButton.Size = UDim2.new(0, 24, 0, 24)
+HelpButton.Position = UDim2.new(1, -92, 0, 10)
+HelpButton.BackgroundColor3 = Color3.fromRGB(30, 80, 150)
+HelpButton.Text = "📋"
+HelpButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+HelpButton.TextSize = 13
+HelpButton.Font = Enum.Font.GothamBold
+HelpButton.ZIndex = 5
+
+local HelpCorner = Instance.new("UICorner")
+HelpCorner.CornerRadius = UDim.new(0, 6)
+HelpCorner.Parent = HelpButton
+
+-- زر الـ S/O الصغير
+local OpenButton = Instance.new("TextButton")
+OpenButton.Name = "OpenButton"
+OpenButton.Parent = ScreenGui
+OpenButton.Size = UDim2.new(0, 50, 0, 32)
+OpenButton.BackgroundColor3 = Color3.fromRGB(15, 30, 60)
+OpenButton.Text = "S/O"
+OpenButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+OpenButton.TextSize = 14
+OpenButton.Font = Enum.Font.GothamBold
+OpenButton.Visible = false
+OpenButton.Active = true
+OpenButton.Draggable = true
+
+local OpenCorner = Instance.new("UICorner")
+OpenCorner.CornerRadius = UDim.new(0, 8)
+OpenCorner.Parent = OpenButton
+
+local OpenStroke = Instance.new("UIStroke") 
+OpenStroke.Color = Color3.fromRGB(40, 100, 200)
+OpenStroke.Thickness = 1.5
+OpenStroke.Parent = OpenButton
+
+-- نص توضيحي داخل اللوحة
+local InfoText = Instance.new("TextLabel")
+InfoText.Name = "InfoText"
+InfoText.Parent = MainFrame
+InfoText.Position = UDim2.new(0, 0, 0.15, 0)
+InfoText.Size = UDim2.new(1, 0, 0, 25)
+InfoText.BackgroundTransparency = 1
+InfoText.Text = "ادخل السرعة المطلوبة:"
+InfoText.TextColor3 = Color3.fromRGB(255, 255, 255)
+InfoText.TextSize = 13
+InfoText.Font = Enum.Font.Gotham
+
+-- خانة كتابة السرعة (TextBox)
+local SpeedInput = Instance.new("TextBox")
+SpeedInput.Name = "SpeedInput"
+SpeedInput.Parent = MainFrame
+SpeedInput.Position = UDim2.new(0.15, 0, 0.25, 0)
+SpeedInput.Size = UDim2.new(0.7, 0, 0, 36)
+SpeedInput.BackgroundColor3 = Color3.fromRGB(10, 12, 18)
+SpeedInput.Text = "500"
+SpeedInput.TextColor3 = Color3.fromRGB(255, 255, 255)
+SpeedInput.TextSize = 16
+SpeedInput.Font = Enum.Font.GothamBold
+SpeedInput.ClearTextOnFocus = false
+
+local InputCorner = Instance.new("UICorner")
+InputCorner.CornerRadius = UDim.new(0, 8)
+InputCorner.Parent = SpeedInput
+
+local InputStroke = Instance.new("UIStroke")
+InputStroke.Color = Color3.fromRGB(30, 50, 80)
+InputStroke.Thickness = 1
+InputStroke.Parent = SpeedInput
+
+-- زر تفعيل/إلغاء السرعة
+local ToggleSpeed = Instance.new("TextButton")
+ToggleSpeed.Name = "ToggleSpeed"
+ToggleSpeed.Parent = MainFrame
+ToggleSpeed.Position = UDim2.new(0.08, 0, 0.44, 0)
+ToggleSpeed.Size = UDim2.new(0.4, 0, 0, 38)
+ToggleSpeed.BackgroundColor3 = Color3.fromRGB(180, 45, 45)
+ToggleSpeed.Text = "السرعة: OFF"
+ToggleSpeed.TextColor3 = Color3.fromRGB(255, 255, 255)
+ToggleSpeed.TextSize = 13
+ToggleSpeed.Font = Enum.Font.GothamBold
+
+local SpeedCorner = Instance.new("UICorner")
+SpeedCorner.CornerRadius = UDim.new(0, 8)
+SpeedCorner.Parent = ToggleSpeed
+
+-- زر تفعيل/إلغاء النو كليب
+local ToggleNoClip = Instance.new("TextButton")
+ToggleNoClip.Name = "ToggleNoClip"
+ToggleNoClip.Parent = MainFrame
+ToggleNoClip.Position = UDim2.new(0.52, 0, 0.44, 0)
+ToggleNoClip.Size = UDim2.new(0.4, 0, 0, 38)
+ToggleNoClip.BackgroundColor3 = Color3.fromRGB(180, 45, 45)
+ToggleNoClip.Text = "نو كليب: OFF"
+ToggleNoClip.TextColor3 = Color3.fromRGB(255, 255, 255)
+ToggleNoClip.TextSize = 13
+ToggleNoClip.Font = Enum.Font.GothamBold
+
+local ClipCorner = Instance.new("UICorner")
+ClipCorner.CornerRadius = UDim.new(0, 8)
+ClipCorner.Parent = ToggleNoClip
+
+-- زر الرفع للأعلى ⬆️
+local FloatUpBtn = Instance.new("TextButton")
+FloatUpBtn.Name = "FloatUpBtn"
+FloatUpBtn.Parent = MainFrame
+FloatUpBtn.Position = UDim2.new(0.08, 0, 0.61, 0)
+FloatUpBtn.Size = UDim2.new(0.4, 0, 0, 38)
+FloatUpBtn.BackgroundColor3 = Color3.fromRGB(40, 50, 70)
+FloatUpBtn.Text = "ارفع لفوق ⬆️"
+FloatUpBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+FloatUpBtn.TextSize = 13
+FloatUpBtn.Font = Enum.Font.GothamBold
+
+local UpCorner = Instance.new("UICorner")
+UpCorner.CornerRadius = UDim.new(0, 8)
+UpCorner.Parent = FloatUpBtn
+
+-- زر التنزيل للمياه ⬇️
+local FloatDownBtn = Instance.new("TextButton")
+FloatDownBtn.Name = "FloatDownBtn"
+FloatDownBtn.Parent = MainFrame
+FloatDownBtn.Position = UDim2.new(0.52, 0, 0.61, 0)
+FloatDownBtn.Size = UDim2.new(0.4, 0, 0, 38)
+FloatDownBtn.BackgroundColor3 = Color3.fromRGB(40, 50, 70)
+FloatDownBtn.Text = "انزل للمياه ⬇️"
+FloatDownBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+FloatDownBtn.TextSize = 13
+FloatDownBtn.Font = Enum.Font.GothamBold
+
+local DownCorner = Instance.new("UICorner")
+DownCorner.CornerRadius = UDim.new(0, 8)
+DownCorner.Parent = FloatDownBtn
+
+-- زر ديسكورد اللوحة الرئيسية
+local MainDiscordBtn = Instance.new("TextButton")
+MainDiscordBtn.Name = "MainDiscordBtn"
+MainDiscordBtn.Parent = MainFrame
+MainDiscordBtn.Position = UDim2.new(0.1, 0, 0.83, 0) 
+MainDiscordBtn.Size = UDim2.new(0.8, 0, 0, 26) 
+MainDiscordBtn.BackgroundColor3 = Color3.fromRGB(88, 101, 242)
+MainDiscordBtn.Text = "SneakyOmda's Server 📋"
+MainDiscordBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+MainDiscordBtn.TextSize = 11 
+MainDiscordBtn.Font = Enum.Font.GothamBold
+
+local MainDiscordCorner = Instance.new("UICorner")
+MainDiscordCorner.CornerRadius = UDim.new(0, 6)
+MainDiscordCorner.Parent = MainDiscordBtn
+
+
+------------------ [3] لوحة التعليمات (Help Frame) ------------------
+
+local HelpFrame = Instance.new("Frame")
+HelpFrame.Name = "HelpFrame"
+HelpFrame.Parent = ScreenGui
+HelpFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+HelpFrame.Position = UDim2.new(0.55, 10, 0.35, 0) 
+HelpFrame.Size = UDim2.new(0, 240, 0, 230)
+HelpFrame.Active = true
+HelpFrame.Draggable = true
+HelpFrame.Visible = false
+
+local HelpCorner = Instance.new("UICorner")
+HelpCorner.CornerRadius = UDim.new(0, 12)
+HelpCorner.Parent = HelpFrame
+
+local HelpGradient = Instance.new("UIGradient")
+HelpGradient.Color = ColorSequence.new({
+    ColorSequenceKeypoint.new(0, Color3.fromRGB(12, 15, 25)),
+    ColorSequenceKeypoint.new(1, Color3.fromRGB(20, 35, 70))
+})
+HelpGradient.Rotation = 45
+HelpGradient.Parent = HelpFrame
+
+local HelpTitle = Instance.new("TextLabel")
+HelpTitle.Name = "HelpTitle"
+HelpTitle.Parent = HelpFrame
+HelpTitle.Size = UDim2.new(1, -30, 0, 30)
+HelpTitle.Position = UDim2.new(0, 10, 0, 5)
+HelpTitle.BackgroundTransparency = 1
+HelpTitle.Text = "طريقة الاستخدام / How to Use"
+HelpTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+HelpTitle.TextSize = 13
+HelpTitle.Font = Enum.Font.GothamBold
+HelpTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+local CloseHelpBtn = Instance.new("TextButton")
+CloseHelpBtn.Name = "CloseHelpBtn"
+CloseHelpBtn.Parent = HelpFrame
+CloseHelpBtn.Size = UDim2.new(0, 20, 0, 20)
+CloseHelpBtn.Position = UDim2.new(1, -26, 0, 8)
+CloseHelpBtn.BackgroundColor3 = Color3.fromRGB(220, 50, 50)
+CloseHelpBtn.Text = "×"
+CloseHelpBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+CloseHelpBtn.TextSize = 14
+CloseHelpBtn.Font = Enum.Font.GothamBold
+
+local CloseHelpCorner = Instance.new("UICorner")
+CloseHelpCorner.CornerRadius = UDim.new(0, 5)
+CloseHelpCorner.Parent = CloseHelpBtn
+
+local HelpContent = Instance.new("TextLabel")
+HelpContent.Name = "HelpContent"
+HelpContent.Parent = HelpFrame
+HelpContent.Position = UDim2.new(0.05, 0, 0.18, 0)
+HelpContent.Size = UDim2.new(0.9, 0, 0.78, 0)
+HelpContent.BackgroundTransparency = 1
+HelpContent.TextColor3 = Color3.fromRGB(230, 230, 230)
+HelpContent.TextSize = 12
+HelpContent.Font = Enum.Font.Gotham
+HelpContent.TextWrapped = true
+HelpContent.TextYAlignment = Enum.TextYAlignment.Top
+
+-- تعديل النصوص لتدعم فكرة "الحركة الحرة والاختيارية" بدون إلزام للـ PC
+local ArabicInstructions = "1. اكتب السرعة وفعل زر السرعة.\n2. فعل النو كليب لتفادي العقبات.\n3. استخدم زر الرفع (⬆️) للطيران بالسفينة لحمايتها، وزر (⬇️) للنزول للمياه.\n\n⚠️ للتحكم والاتجاهات:\n• للكمبيوتر: يمكنك الضغط على زر (W) للحركة الحرة (Free Move) للأمام، ثم استخدام (A) و (D) للتوجيه يميناً ويساراً حسب رغبتك.\n• للموبايل: يمكنك التوجيه مباشرة بشكل عادي عن طريق (الانالوج)."
+local EnglishInstructions = "1. Enter speed and turn Speed ON.\n2. Turn Noclip ON to bypass obstacles.\n3. Use (⬆️) to fly and safe your boat, and (⬇️) to drop down to water.\n\n⚠️ Steering & Controls:\n• PC: Press (W) for Free Move forward, and use (A) and (D) to steer freely as you like.\n• Mobile: You can steer naturally using the standard (Analog stick)."
+
+
+------------------ منطق تغيير اللغة (Language Logic) ------------------
+
+local SelectedLang = "AR"
+local SpeedActive = false
+local NoClipActive = false
+local IsFloating = false 
+
+local function SetLanguage(lang)
+    SelectedLang = lang
+    if lang == "AR" then
+        InfoText.Text = "ادخل السرعة المطلوبة:"
+        ToggleSpeed.Text = SpeedActive and "السرعة: ON" or "السرعة: OFF"
+        ToggleNoClip.Text = NoClipActive and "نو كليب: ON" or "نو كليب: OFF"
+        FloatUpBtn.Text = "ارفع لفوق ⬆️"
+        FloatDownBtn.Text = "انزل للمياه ⬇️"
+        HelpContent.Text = ArabicInstructions
+        HelpContent.TextXAlignment = Enum.TextXAlignment.Right
+    elseif lang == "EN" then
+        InfoText.Text = "Enter target speed:"
+        ToggleSpeed.Text = SpeedActive and "Speed: ON" or "Speed: OFF"
+        ToggleNoClip.Text = NoClipActive and "Noclip: ON" or "Noclip: OFF"
+        FloatUpBtn.Text = "Float Up ⬆️"
+        FloatDownBtn.Text = "Go Water ⬇️"
+        HelpContent.Text = EnglishInstructions
+        HelpContent.TextXAlignment = Enum.TextXAlignment.Left
+    end
+    LangFrame:Destroy()
+    MainFrame.Visible = true
+end
+
+ArabicBtn.MouseButton1Click:Connect(function() SetLanguage("AR") end)
+EnglishBtn.MouseButton1Click:Connect(function() SetLanguage("EN") end)
+
+
+------------------ منطق أزرار الواجهة (UI Logic) ------------------
+
+CloseButton.MouseButton1Click:Connect(function()
+    ScreenGui:Destroy()
+end)
+
+MinimizeButton.MouseButton1Click:Connect(function()
+    OpenButton.Position = UDim2.new(MainFrame.Position.X.Scale, MainFrame.Position.X.Offset, MainFrame.Position.Y.Scale, MainFrame.Position.Y.Offset)
+    MainFrame.Visible = false
+    HelpFrame.Visible = false 
+    OpenButton.Visible = true
+end)
+
+OpenButton.MouseButton1Click:Connect(function()
+    MainFrame.Position = UDim2.new(OpenButton.Position.X.Scale, OpenButton.Position.X.Offset, OpenButton.Position.Y.Scale, OpenButton.Position.Y.Offset)
+    HelpFrame.Position = UDim2.new(MainFrame.Position.X.Scale, MainFrame.Position.X.Offset + 255, MainFrame.Position.Y.Scale, MainFrame.Position.Y.Offset)
+    OpenButton.Visible = false
+    MainFrame.Visible = true
+end)
+
+HelpButton.MouseButton1Click:Connect(function()
+    HelpFrame.Position = UDim2.new(MainFrame.Position.X.Scale, MainFrame.Position.X.Offset + 255, MainFrame.Position.Y.Scale, MainFrame.Position.Y.Offset)
+    HelpFrame.Visible = not HelpFrame.Visible
+end)
+
+CloseHelpBtn.MouseButton1Click:Connect(function()
+    HelpFrame.Visible = false
+end)
+
+local function CopyLink(button)
+    if setclipboard then
+        setclipboard(DiscordLink)
+        local OldText = button.Text
+        button.Text = "Copied! ✅" 
+        task.wait(2)
+        button.Text = OldText
+    else
+        button.Text = "Error!"
+        task.wait(2)
+        button.Text = "SneakyOmda's Server 📋"
+    end
+end
+
+LangDiscordBtn.MouseButton1Click:Connect(function() CopyLink(LangDiscordBtn) end)
+MainDiscordBtn.MouseButton1Click:Connect(function() CopyLink(MainDiscordBtn) end)
+
+
+------------------ المنطق البرمجي المطور ------------------
+
+local CurrentSpeed = 500
+local LV = nil 
+local Att = nil 
+
+SpeedInput.FocusLost:Connect(function(enterPressed)
+    local num = tonumber(SpeedInput.Text)
+    if num then CurrentSpeed = num else SpeedInput.Text = tostring(CurrentSpeed) end
+end)
+
+ToggleSpeed.MouseButton1Click:Connect(function()
+    SpeedActive = not SpeedActive
+    if SpeedActive then
+        ToggleSpeed.BackgroundColor3 = Color3.fromRGB(35, 150, 80)
+        ToggleSpeed.Text = (SelectedLang == "AR") and "السرعة: ON" or "Speed: ON"
+    else
+        ToggleSpeed.BackgroundColor3 = Color3.fromRGB(180, 45, 45)
+        ToggleSpeed.Text = (SelectedLang == "AR") and "السرعة: OFF" or "Speed: OFF"
+        if LV then LV:Destroy() LV = nil end
+        if Att then Att:Destroy() Att = nil end
+    end
+end)
+
+ToggleNoClip.MouseButton1Click:Connect(function()
+    NoClipActive = not NoClipActive
+    if NoClipActive then
+        ToggleNoClip.BackgroundColor3 = Color3.fromRGB(35, 150, 80)
+        ToggleNoClip.Text = (SelectedLang == "AR") and "نو كليب: ON" or "Noclip: ON"
+    else
+        ToggleNoClip.BackgroundColor3 = Color3.fromRGB(180, 45, 45)
+        ToggleNoClip.Text = (SelectedLang == "AR") and "نو كليب: OFF" or "Noclip: OFF"
+        
+        pcall(function()
+            local Character = LocalPlayer.Character
+            if Character and Character:FindFirstChild("Humanoid") then
+                local Seat = Character.Humanoid.SeatPart
+                if Seat and Seat:IsA("VehicleSeat") then
+                    for _, part in pairs(Seat.Parent:GetDescendants()) do
+                        if part:IsA("BasePart") then part.CanCollide = true end
+                    end
+                end
+            end
+        end)
+    end
+end)
+
+FloatUpBtn.MouseButton1Click:Connect(function()
+    IsFloating = true
+    FloatUpBtn.BackgroundColor3 = Color3.fromRGB(35, 150, 80)
+    FloatDownBtn.BackgroundColor3 = Color3.fromRGB(40, 50, 70)
+end)
+
+FloatDownBtn.MouseButton1Click:Connect(function()
+    IsFloating = false
+    FloatUpBtn.BackgroundColor3 = Color3.fromRGB(40, 50, 70)
+    FloatDownBtn.BackgroundColor3 = Color3.fromRGB(35, 150, 80)
+end)
+
+
+RunService.Stepped:Connect(function()
+    pcall(function()
+        local Character = LocalPlayer.Character
+        if not Character or not Character:FindFirstChild("Humanoid") then return end
+        
+        local Seat = Character.Humanoid.SeatPart
+        if Seat and Seat:IsA("VehicleSeat") then
+            local Boat = Seat.Parent
+            
+            if SpeedActive then
+                if not LV or LV.Parent ~= Seat then
+                    if LV then LV:Destroy() end
+                    if Att then Att:Destroy() end
+                    
+                    Att = Instance.new("Attachment")
+                    Att.Parent = Seat
+                    
+                    LV = Instance.new("LinearVelocity")
+                    LV.MaxForce = 999999999
+                    LV.VelocityConstraintMode = Enum.VelocityConstraintMode.Vector
+                    LV.Attachment0 = Att
+                    LV.Parent = Seat
+                end
+                
+                local CalculatedVelocity = Seat.CFrame.LookVector * CurrentSpeed
+                LV.VectorVelocity = Vector3.new(CalculatedVelocity.X, LV.VectorVelocity.Y, CalculatedVelocity.Z)
+                Seat.AssemblyLinearVelocity = Vector3.new(CalculatedVelocity.X, Seat.AssemblyLinearVelocity.Y, CalculatedVelocity.Z)
+            else
+                if LV then LV:Destroy() LV = nil end
+                if Att then Att:Destroy() Att = nil end
+            end
+            
+            if IsFloating then
+                Seat.AssemblyLinearVelocity = Vector3.new(Seat.AssemblyLinearVelocity.X, 0, Seat.AssemblyLinearVelocity.Z)
+                Boat:PivotTo(CFrame.new(Seat.Position.X, 150, Seat.Position.Z) * CFrame.Angles(Seat.CFrame:ToEulerAnglesXYZ()))
+            end
+            
+            if NoClipActive then
+                for _, part in pairs(Boat:GetDescendants()) do
+                    if part:IsA("BasePart") then 
+                        part.CanCollide = false 
+                    end
+                end
+                
+                for _, player in pairs(Players:GetPlayers()) do
+                    if player.Character and player.Character:FindFirstChild("Humanoid") then
+                        local pSeat = player.Character.Humanoid.SeatPart
+                        if pSeat and pSeat:IsDescendantOf(Boat) then
+                            for _, part in pairs(player.Character:GetDescendants()) do
+                                if part:IsA("BasePart") then 
+                                    part.CanCollide = false 
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+        else
+            if LV then LV:Destroy() LV = nil end
+            if Att then Att:Destroy() Att = nil end
+        end
+    end)
+end)
